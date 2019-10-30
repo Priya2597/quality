@@ -2,7 +2,7 @@
  
 int main()
 {
-  int array[100], c, e, d, swap;
+  int array[100], c, d, swap;
   int i;
  
   printf("Enter number of elements\n");
